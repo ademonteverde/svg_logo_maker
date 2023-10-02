@@ -56,6 +56,10 @@ The following image demonstrates the web application's appearance and functional
 
 [https://ademonteverde.github.io/svg_logo_maker/](https://ademonteverde.github.io/svg_logo_maker/)
 
+## Link to video demo:
+
+[https://drive.google.com/file/d/17D21hJUiJVBM1AZPI8K7z3Gw0aXXy0w3/view](https://drive.google.com/file/d/17D21hJUiJVBM1AZPI8K7z3Gw0aXXy0w3/view)
+
 ## License
 
 This project is licensed under the [MIT](https://github.com/ademonteverde/svg_logo_maker/blob/main/LICENSE) License.
